@@ -42,7 +42,7 @@ There are two approaches for accessing the admin panel. Accessing the admin pane
 3. Exiting this screen can be done by clicking on the *back* button.
 
 ### Adding activities
-Before a user can play the game the activity database needs to be filled. If the database is empty and the user starts a game no questions will be loaded. There are several ways to add activities to the activity database namely, Adding an activity manually, Adding one activity through inserting a JSON format and Bulk adding activities through a JSON file with the corresponding format. An addition has to abide by several conditions.
+Before a user can play the game the activity database needs to be filled. If the database is empty and the user starts a game no questions will be loaded. There are several ways to add activities to the activity database namely, Adding an activity manually, Adding one activity through inserting a JSON format and Bulk adding activities through a JSON file with the corresponding format. An addition has to abide by several conditions. An example set of activities is located in the docs folder.
 
 #### Conditions
 - A title must have at least three words and must be unique.

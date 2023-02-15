@@ -1,0 +1,72 @@
+[
+    {
+      "id": "38-hairdryer",
+      "image_path": "38/hairdryer.png",
+      "title": "Using a hairdryer for an hour",
+      "consumption_in_wh": 1200,
+      "source": "https://blog.arcadia.com/electricity-costs-10-key-household-products/"
+    },
+    {
+      "id": "38-leafblower",
+      "image_path": "38/leafblower.png",
+      "title": "Using a leafblower for 15 minutes",
+      "consumption_in_wh": 183,
+      "source": "https://www.kompulsa.com/how-much-power-are-your-appliances-consuming/#power_consumption_of_leaf_blowers"
+    },
+    {
+      "id": "38-coffee",
+      "image_path": "38/coffee.png",
+      "title": "Making a hot cup of coffee",
+      "consumption_in_wh": 300,
+      "source": "https://business.directenergy.com/blog/2017/september/international-coffee-day"
+    },
+    {
+      "id": "38-lcd_tv",
+      "image_path": "38/lcd_tv.jpeg",
+      "title": "Watching a 42 inch LCD TV for an hour",
+      "consumption_in_wh": 120,
+      "source": "https://www.thehomehacksdiy.com/how-much-electricity-power-does-a-tv-use/"
+    },
+    {
+      "id": "38-router",
+      "image_path": "38/router.png",
+      "title": "Having your Wi-Fi router on for a day",
+      "consumption_in_wh": 84,
+      "source": "https://www.kompulsa.com/how-much-power-are-your-appliances-consuming/#power_consumption_of_wireless_routers"
+    },
+    {
+      "id": "38-paper-cup",
+      "image_path": "38/paper-cup.jpg",
+      "title": "Produce a single paper cup",
+      "consumption_in_wh": 153,
+      "source": "https://sustainability.tufts.edu/wp-content/uploads/Comparativelifecyclecosts.pdf"
+    },
+    {
+      "id": "38-air-conditioner",
+      "image_path": "38/air-conditioner.jpg",
+      "title": "Air conditioner in 1 year",
+      "consumption_in_wh": 4500000,
+      "source": "https://www.apge.com/how-much-electricity-do-devices-use"
+    },
+    {
+      "id": "38-electricToothbrush",
+      "image_path": "38/electricToothbrush.png",
+      "title": "Charging an electric toothbrush for a year",
+      "consumption_in_wh": 2800,
+      "source": "https://www.telegraph.co.uk/finance/personalfinance/energy-bills/11949102/How-much-does-it-cost-per-year-to-charge-my-electric-toothbrush.html"
+    },
+    {
+      "id": "38-ledbulb",
+      "image_path": "38/ledbulb.png",
+      "title": "Having an LED lightbulb on for 6 hours",
+      "consumption_in_wh": 51,
+      "source": "https://learn.eartheasy.com/guides/led-light-bulbs-comparison-charts/"
+    },
+    {
+      "id": "38-produce-kg-of-beef",
+      "image_path": "38/produce-kg-of-beef.jpg",
+      "title": "Producing 1kg of beef. (2019)",
+      "consumption_in_wh": 70000,
+      "source": "https://www.saveonenergy.com/learning-center/post/american-food-production-requires-energy/"
+    }
+]
